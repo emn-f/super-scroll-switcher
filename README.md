@@ -23,3 +23,7 @@ gnome-extensions enable super-scroll-switcher@emn-f.github.io
 ```bash
 gnome-extensions pack /home/holmes/dev/super-scroll-switcher --force --out-dir=/home/holmes/dev/super-scroll-switcher
 ```
+
+---
+
+Created by **HOLMES** ([@emn-f](https://github.com/emn-f))
