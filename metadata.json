@@ -1,0 +1,8 @@
+{
+  "uuid": "super-scroll-switcher@emn-f.github.io",
+  "name": "Super Scroll Switcher",
+  "description": "Use Super+Scroll to switch windows via Overview (activates on Super release) and Super+Shift+Scroll to switch workspaces.",
+  "shell-version": ["51"],
+  "url": "https://github.com/emn-f/super-scroll-switcher",
+  "version": 1
+}
